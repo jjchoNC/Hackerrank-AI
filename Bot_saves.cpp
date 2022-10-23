@@ -1,6 +1,4 @@
 #include <iostream>
-#include <string.h>
-#include <vector>
 using namespace std;
 
 void displayPathtoPrincess(int px, int py, int mx, int my)
